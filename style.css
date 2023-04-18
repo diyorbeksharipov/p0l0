@@ -58,10 +58,7 @@ p{
     height: 499px;
 }
 @media (max-width:1420px) {
-    .img{
-        width: 500px;
-        
-    }
+
 }
 .navbar__logo{
     display: flex;
